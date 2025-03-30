@@ -93,6 +93,3 @@ Este dataset permite realizar análises que podem ser aplicadas em contextos rea
   3. Inclusão de visualizações geográficas para análise espacial.
 
 ---
-
-## Estrutura do Projeto
-
