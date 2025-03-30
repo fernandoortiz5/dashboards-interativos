@@ -83,7 +83,7 @@ Este dataset permite realizar análises que podem ser aplicadas em contextos rea
 
 3. **Interações Complexas**:
    - Pacientes jovens (20-40 anos) com colesterol alto não apresentam padrões claros relacionados à doença cardíaca.
-   - Mulheres jovens com pressão elevada apresentam padrões únicos que merecem atenção adicional.
+   - Homens jovens com pressão elevada apresentam padrões únicos que merecem atenção adicional.
 
 ### Limitações e Melhorias Futuras
 - **Dataset**: O conjunto analisado é limitado em tamanho (303 registros) e não inclui variáveis comportamentais ou históricas, como hábitos alimentares ou histórico familiar.
